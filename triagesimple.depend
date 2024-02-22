@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708551821 source:d:\étude\programme c\triagesimple\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
